@@ -1,0 +1,35 @@
+id,EmployeeName,Date Of Joining,FatherName,Empcode,CardNo,Proximity Card No,EmailID
+1,Anil Gautam,1-Oct-2015,Tara Chand,S001,1,,anil.techmarbles@gmail.com
+2,Manish Gautam,1-Oct-2015,Tara Chand,S002,2,,manish.techmarbles@gmail.com
+3,Ankush Rana,7-Nov-2015,Pradeep kumar,S003,3,,ankush.techmarbles@gmail.com
+4,Pushpender Sharma,1-Oct-2015,Yograj Sharma,S004,4,,pushpender.techmarbles@gmail.com
+5,Sunil Sharma,1-Oct-2015,Om Prakash Sharma,S005,5,,sunil.techmarbles@gmail.com
+6,Rahul Dhiman,23-Oct-2017,Sanjeev kumar Dhiman,S006,6,,Rahuldhiman.techmarbles@gmail.com
+7,Arun Kumar,,Kuldeep Kumar,S007,7,,arunkumar11291@gmail.com
+8,Rohit,9-Jun-2017,Surender Sharma,S009,9,,rohit.techmarbles@gmail.com
+9,Jai Laxmi,3-Oct-2016,Devi Singh,S011,11,,jaicika.techmarbles@gmail.com
+10,Kirti,3-Oct-2017,Sanjay Kumar,S012,12,,kirti.techmarbles@gmail.com
+11,Devinder,23-Jan-2017,Inder Singh,S014,14,,devinder.techmarbles@gmail.com
+12,Paramjit Kaur,23-Nov-2017,Jagir Singh,S016,16,,paramjit.techmarbles@gmail.com
+13,Arun Kumar Rana,1-Oct-2015,Dharam Chand,S017,17,,arun.techmarbles@gmail.com
+14,Dimpal Rani,23-Jul-2018,karam chand,S023,23,,dimpal.techmarbles@gmail.com
+15,Sunil kumar,20-Aug-2018,Nidhiya ram,S025,25,,sunilk.techmarbles@gmail.com
+16,Priyesh,1-Dec-2018,Suresh Kumar Sharma,S026,26,,priyesh.techmarbles@gmail.com
+17,Anjali Thapa,20-Sept-2018,Bishan Bahadur Thapa,S029,29,,anjali.techmarbles@gmail.com 
+18,Hitesh Chaudhary,22-Nov-2018,Ashok Kumar,S033,33,,hitesh.techmarbles@gmail.com
+19,Mukesh Kumar,3 Dec- 2018,Balkar Singh,S035,35,,mukesh.techmarbles@gmail.com
+20,Kuldeep Rana,17 Dec -2018,Satbir singh,S036,36,,kuldeep.techmarbles@gmail.com
+21,Sachin Kumar,6 Mar -2019,Om Prakash,S038,38,,sachin.techmarbles@gmail.com
+22,Akash MIttal,18 March 2019,Umesh Mittal,S039,39,,akash.techmarbles@gmail.com
+23,Ashish kumar,1-Apr-2019,kuldeep kumar,S019,19,,bhanu.techmarbles@gmail.com
+24,Abhimanev Singh,22 July 2019,Pardeep Singh,S045,45,,abhimanev.techmarbles@gmail.com
+25,Reetika Sharma,3- Oct-2019,Surender Kumar,S047,47,,hr@techmarbles.com
+26,Charu Sharma,,,S048,48,,charusharma.work@gmail.com
+28,Charul Batta,25 November 2019,Jagdish Chander Batta,S050,50,,charul.techmarbles@gmail.com
+27,Akshay Sharma,18 November 2019,Ashok Sharma,S049,49,,akshay.techmarbles@gmail.com
+29,Seema Rani,11 December 2019,Pawan Kumar,S051,51,,seema.techmarbles@gmail.com
+,,,,,,,
+,,,,,,,
+Trainee,,,,,,,
+,,,,,,,
+1,Girish Sharma,06-Jan-2020,Dharmender Sharma,S052,52,,girish.techmarbles@gmail.com
